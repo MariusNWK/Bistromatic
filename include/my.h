@@ -1,0 +1,75 @@
+/*
+** EPITECH PROJECT, 2020
+** my.h
+** File description:
+** task 2
+*/
+char *plus_to_nothing(char *, int);
+char *error_no_operator(char *);
+char *error_handling(char *, char *, char *);
+char *result_between_parentheses2(char *);
+char *result_with_new_zeros(char *, char *);
+char *s1_without_the_useless_zeros(char *);
+char *value_new_s1(char *, char *);
+void *modulo_simple(char *, char *);
+char *minus_adder(char *);
+char *number_cleaner(char *);
+void *division_simple(char *, char *);
+char *minus_adder(char *);
+char *value_str_s1(char *, char *);
+int minus_number(char *, char *);
+char *number_cleaner(char *);
+char *malloc_result(char *, char *);
+int number_comparator(char *, char *);
+char *zeros_cleaner(char *);
+char *seg_fault_resolver(char *);
+char *plus_plus_suite(char *);
+char *moins_moins_to_plus(char *, int);
+char *plus_moins_to_moins(char *, int);
+char *string_new_str(int, int, char *, char *);
+char *parentheses_searcher(char *);
+char *s1_s2_addition(char *, char);
+char *s1_s2_soustraction(char *, char);
+char *addisoustraction(char *, char *);
+char *plus_moins(char *, char *);
+int value_size_result(char *, char *);
+char *s_equal_zero(char *, int);
+char *value_s2(char *);
+char *value_result(char *, char *);
+int value_full_of_zero(char *, char *);
+int value_s1plusgrand(int, int, char *, char *);
+char *result_zeros_only(int, char *);
+char *plus_plus2(int, char *, char *, char *);
+char *plus_plus3(int, char *, char *, char *);
+int plus_plus4(int, char *, char *, char *);
+char *plus_plus5(int, char *);
+char *plus_plus_addsoustr(char *, char *);
+int minus_deleter_int(char *);
+char *minus_deleter_char(char *);
+char *s1_s2_modulo(char *, char);
+char *s1_equal_s2_mod(char *, char *);
+void *modulo(char *, char *);
+char *s1_moins_s2(char *, char *);
+char *my_strdup(char const *);
+char *int_to_str_converter(int);
+int my_getnbr(char const *);
+void my_putchar(char);
+int my_put_nbr(int);
+int my_putstr(char const *);
+int my_strlen(char const *);
+char *val_s1(char *, char);
+char *val_s2(char *, char);
+int val_i1_for_size_result(char *, char);
+int val_i2_for_size_result(char *, char);
+char *result_between_parentheses(char *);
+char *parentheses_searcher(char *);
+char *multiplication(char *, char *);
+char *plus_plus(char *, char *);
+char *s1_s2_multiplier(char *, char);
+void *division(char *, char *);
+char *val_av(char *);
+char *s1_s2_divisor(char *, char);
+int sup_equal_inf(char *, char *);
+char *s1_sup_s2(char *, char *, int);
+char *s1_equal_s2(char *, char *, int);
+char *s1_inf_s2(char *, char *, int);
